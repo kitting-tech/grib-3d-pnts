@@ -12,7 +12,7 @@ grib-3d-viewer是一个
 
 ### 预览
 
-[image](https://github.com/kitting-tech/grib-3d-viewer/raw/master/screenshots/temp.png)
+![image](/screenshots/temp.png)
 
 ### 运行项目
 
